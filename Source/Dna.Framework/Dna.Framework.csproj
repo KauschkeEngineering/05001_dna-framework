@@ -14,6 +14,7 @@
     <Version>1.0.7.19</Version>
     <AssemblyVersion>1.0.7.19</AssemblyVersion>
     <FileVersion>1.0.7.19</FileVersion>
+    <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
