@@ -36,4 +36,6 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="5.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties Reactor_Commands="" Reactor_Configuration="Debug" Reactor_Deploy="0" Reactor_Enabled="0" Reactor_Output="&lt;AssemblyLocation&gt;\&lt;AssemblyFileName&gt;" Reactor_Project="" /></VisualStudio></ProjectExtensions>
 </Project>
