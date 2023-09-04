@@ -11,9 +11,9 @@
     <PackageTags>dna framework angelsix luke malpass web core cross platform</PackageTags>
     <PackageReleaseNotes>A cross-platform base framework useful for all projects that use .Net Core</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.7.19</Version>
-    <AssemblyVersion>1.0.7.19</AssemblyVersion>
-    <FileVersion>1.0.7.19</FileVersion>
+    <Version>0.2.0.0</Version>
+    <AssemblyVersion>0.2.0.0</AssemblyVersion>
+    <FileVersion>0.2.0.0</FileVersion>
     <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
 
